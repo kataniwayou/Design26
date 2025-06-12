@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Manager.OrchestrationSession.props" />
+</Project>

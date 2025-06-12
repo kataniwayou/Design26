@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Assignment</name>
+    </assembly>
+    <members>
+        <member name="T:Manager.Assignment.Models.BatchAssignmentRequest">
+            <summary>
+            Request model for batch assignment operations
+            </summary>
+        </member>
+        <member name="P:Manager.Assignment.Models.BatchAssignmentRequest.AssignmentIds">
+            <summary>
+            List of assignment IDs to retrieve
+            </summary>
+        </member>
+        <member name="T:Manager.Assignment.Models.BatchAssignmentResponse">
+            <summary>
+            Response model for batch assignment operations
+            </summary>
+        </member>
+        <member name="P:Manager.Assignment.Models.BatchAssignmentResponse.Assignments">
+            <summary>
+            Successfully retrieved assignments
+            </summary>
+        </member>
+        <member name="P:Manager.Assignment.Models.BatchAssignmentResponse.NotFound">
+            <summary>
+            IDs that were not found
+            </summary>
+        </member>
+        <member name="P:Manager.Assignment.Models.BatchAssignmentResponse.RequestedCount">
+            <summary>
+            Total number of requested IDs
+            </summary>
+        </member>
+        <member name="P:Manager.Assignment.Models.BatchAssignmentResponse.FoundCount">
+            <summary>
+            Number of successfully retrieved assignments
+            </summary>
+        </member>
+        <member name="M:Manager.Assignment.Repositories.IAssignmentEntityRepository.HasEntityReferences(System.Guid)">
+            <summary>
+            Check if any assignment entities reference the specified entity ID
+            </summary>
+            <param name="entityId">The entity ID to check for references</param>
+            <returns>True if any assignment entities reference the entity, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Assignment.Services.AssignmentValidationService">
+            <summary>
+            Service for validating Assignment entity references
+            </summary>
+        </member>
+        <member name="T:Manager.Assignment.Services.IAssignmentValidationService">
+            <summary>
+            Service interface for validating Assignment entity references
+            </summary>
+        </member>
+        <member name="M:Manager.Assignment.Services.IAssignmentValidationService.ValidateStepExists(System.Guid)">
+            <summary>
+            Validates that a step exists in the Step Manager
+            </summary>
+            <param name="stepId">The step ID to validate</param>
+            <returns>Task that completes when validation is done</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown when step doesn't exist or validation service is unavailable</exception>
+        </member>
+        <member name="M:Manager.Assignment.Services.IAssignmentValidationService.ValidateEntitiesExist(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Validates that all entity IDs exist in their respective managers
+            </summary>
+            <param name="entityIds">The list of entity IDs to validate</param>
+            <returns>Task that completes when validation is done</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown when any entity doesn't exist or validation service is unavailable</exception>
+        </member>
+        <member name="T:Manager.Assignment.Services.IManagerHttpClient">
+            <summary>
+            HTTP client interface for communicating with other managers for validation
+            </summary>
+        </member>
+        <member name="M:Manager.Assignment.Services.IManagerHttpClient.CheckStepExists(System.Guid)">
+            <summary>
+            Check if a step exists in the Step Manager
+            </summary>
+            <param name="stepId">The step ID to check</param>
+            <returns>True if step exists, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Assignment.Services.IManagerHttpClient.CheckEntityExists(System.Guid)">
+            <summary>
+            Check if an entity exists in the appropriate manager
+            For now, this will check if it's a valid GUID format and assume it exists
+            In a full implementation, this would route to the appropriate manager based on entity type
+            </summary>
+            <param name="entityId">The entity ID to check</param>
+            <returns>True if entity exists, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Assignment.Services.IOrchestratedFlowValidationService">
+            <summary>
+            Service for validating referential integrity with OrchestratedFlow entities
+            </summary>
+        </member>
+        <member name="M:Manager.Assignment.Services.IOrchestratedFlowValidationService.CheckAssignmentReferencesAsync(System.Guid)">
+            <summary>
+            Check if any OrchestratedFlow entities reference the specified assignment ID
+            </summary>
+            <param name="assignmentId">The assignment ID to check for references</param>
+            <returns>True if any OrchestratedFlow entities reference the assignment, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Assignment.Services.ManagerHttpClient">
+            <summary>
+            HTTP client service for communicating with other managers for validation
+            </summary>
+        </member>
+        <member name="T:Manager.Assignment.Services.OrchestratedFlowValidationService">
+            <summary>
+            Service for validating referential integrity with OrchestratedFlow entities
+            </summary>
+        </member>
+    </members>
+</doc>

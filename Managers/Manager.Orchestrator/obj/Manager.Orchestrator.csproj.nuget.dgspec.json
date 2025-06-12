@@ -1,0 +1,1139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Managers\\Manager.Orchestrator\\Manager.Orchestrator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Managers\\Manager.Orchestrator\\Manager.Orchestrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Managers\\Manager.Orchestrator\\Manager.Orchestrator.csproj",
+        "projectName": "Manager.Orchestrator",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Managers\\Manager.Orchestrator\\Manager.Orchestrator.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Managers\\Manager.Orchestrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\Shared.Configuration.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\Shared.Configuration.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\Shared.Extensions.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\Shared.Extensions.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\Shared.HealthChecks.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\Shared.HealthChecks.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "AspNetCore.HealthChecks.Rabbitmq": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Hazelcast.Net": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "Polly.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\Shared.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\Shared.Configuration.csproj",
+        "projectName": "Shared.Configuration",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\Shared.Configuration.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\Shared.MongoDB.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\Shared.MongoDB.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\Shared.Repositories.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\Shared.Repositories.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj",
+        "projectName": "Shared.Correlation",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj",
+        "projectName": "Shared.Entities",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj",
+        "projectName": "Shared.Exceptions",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\Shared.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\Shared.Extensions.csproj",
+        "projectName": "Shared.Extensions",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\Shared.Extensions.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\Shared.HealthChecks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\Shared.HealthChecks.csproj",
+        "projectName": "Shared.HealthChecks",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\Shared.HealthChecks.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.HealthChecks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj",
+        "projectName": "Shared.MassTransit",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\Shared.MassTransit.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MassTransit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj",
+        "projectName": "Shared.Models",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\Shared.Models.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\Shared.MongoDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\Shared.MongoDB.csproj",
+        "projectName": "Shared.MongoDB",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\Shared.MongoDB.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.MongoDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\Shared.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\Shared.Repositories.csproj",
+        "projectName": "Shared.Repositories",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\Shared.Repositories.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Entities\\Shared.Entities.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Exceptions\\Shared.Exceptions.csproj"
+              },
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj",
+        "projectName": "Shared.Services",
+        "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\Shared.Services.csproj",
+        "packagesPath": "C:\\Users\\UserL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UserL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj": {
+                "projectPath": "C:\\Users\\UserL\\source\\repos\\Design26\\Shared\\Shared.Correlation\\Shared.Correlation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Hazelcast.Net": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

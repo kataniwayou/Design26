@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Orchestrator</name>
+    </assembly>
+    <members>
+        <member name="T:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer">
+            <summary>
+            Consumer for ActivityExecutedEvent that handles workflow progression
+            Manages the transition from completed steps to their next steps
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.HandleFlowBranchTerminationAsync(Shared.MassTransit.Events.ActivityExecutedEvent)">
+            <summary>
+            Handles flow branch termination by deleting cache processor data
+            </summary>
+            <param name="activityEvent">The activity executed event</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.ProcessNextStepsAsync(Shared.MassTransit.Events.ActivityExecutedEvent,System.Collections.Generic.List{System.Guid},Manager.Orchestrator.Models.OrchestrationCacheModel)">
+            <summary>
+            Processes all next steps by copying cache data and publishing ExecuteActivityCommand
+            </summary>
+            <param name="activityEvent">The activity executed event</param>
+            <param name="nextSteps">Collection of next step IDs</param>
+            <param name="orchestrationData">Orchestration cache data</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.ProcessSingleNextStepAsync(Shared.MassTransit.Events.ActivityExecutedEvent,System.Guid,Manager.Orchestrator.Models.OrchestrationCacheModel)">
+            <summary>
+            Processes a single next step by copying cache data and publishing ExecuteActivityCommand
+            </summary>
+            <param name="activityEvent">The activity executed event</param>
+            <param name="nextStepId">The next step ID to process</param>
+            <param name="orchestrationData">Orchestration cache data</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.CopyCacheProcessorDataAsync(Shared.MassTransit.Events.ActivityExecutedEvent,System.Guid,System.Guid)">
+            <summary>
+            Copies cache processor data from source processor to destination processor
+            </summary>
+            <param name="activityEvent">The activity executed event</param>
+            <param name="nextStepId">The next step ID</param>
+            <param name="destinationProcessorId">The destination processor ID</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.ShouldExecuteStep(Shared.Entities.Enums.StepEntryCondition,Shared.MassTransit.Events.ActivityExecutedEvent,System.Boolean)">
+            <summary>
+            Determines if a step should be executed based on its entry condition and previous step result
+            </summary>
+            <param name="entryCondition">The entry condition of the step</param>
+            <param name="activityEvent">The activity event from the previous step</param>
+            <param name="isPreviousStepSuccess">Whether the previous step was successful</param>
+            <returns>True if the step should be executed, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityExecutedEventConsumer.DeleteSourceCacheDataAsync(Shared.MassTransit.Events.ActivityExecutedEvent)">
+            <summary>
+            Deletes source cache data after processing
+            </summary>
+            <param name="activityEvent">The activity event</param>
+        </member>
+        <member name="T:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer">
+            <summary>
+            Consumer for ActivityFailedEvent that handles workflow progression for failed activities
+            Manages the transition from failed steps to their next steps based on entry conditions
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.HandleFlowBranchTerminationAsync(Shared.MassTransit.Events.ActivityFailedEvent)">
+            <summary>
+            Handles flow branch termination by deleting cache processor data
+            </summary>
+            <param name="activityEvent">The activity failed event</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.ProcessNextStepsAsync(Shared.MassTransit.Events.ActivityFailedEvent,System.Collections.Generic.List{System.Guid},Manager.Orchestrator.Models.OrchestrationCacheModel)">
+            <summary>
+            Processes all next steps by copying cache data and publishing ExecuteActivityCommand
+            </summary>
+            <param name="activityEvent">The activity failed event</param>
+            <param name="nextSteps">Collection of next step IDs</param>
+            <param name="orchestrationData">Orchestration cache data</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.ProcessSingleNextStepAsync(Shared.MassTransit.Events.ActivityFailedEvent,System.Guid,Manager.Orchestrator.Models.OrchestrationCacheModel)">
+            <summary>
+            Processes a single next step by copying cache data and publishing ExecuteActivityCommand
+            </summary>
+            <param name="activityEvent">The activity failed event</param>
+            <param name="nextStepId">The next step ID to process</param>
+            <param name="orchestrationData">Orchestration cache data</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.CopyCacheProcessorDataAsync(Shared.MassTransit.Events.ActivityFailedEvent,System.Guid,System.Guid)">
+            <summary>
+            Copies cache processor data from source processor to destination processor
+            </summary>
+            <param name="activityEvent">The activity failed event</param>
+            <param name="nextStepId">The next step ID</param>
+            <param name="destinationProcessorId">The destination processor ID</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.ShouldExecuteStep(Shared.Entities.Enums.StepEntryCondition,Shared.MassTransit.Events.ActivityFailedEvent,System.Boolean)">
+            <summary>
+            Determines if a step should be executed based on its entry condition and previous step result
+            </summary>
+            <param name="entryCondition">The entry condition of the step</param>
+            <param name="activityEvent">The activity event from the previous step</param>
+            <param name="isPreviousStepSuccess">Whether the previous step was successful</param>
+            <returns>True if the step should be executed, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Consumers.ActivityFailedEventConsumer.DeleteSourceCacheDataAsync(Shared.MassTransit.Events.ActivityFailedEvent)">
+            <summary>
+            Deletes source cache data after processing
+            </summary>
+            <param name="activityEvent">The activity failed event</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Controllers.OrchestrationController.Start(System.String)">
+            <summary>
+            Starts orchestration for the specified orchestrated flow ID
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to start</param>
+            <returns>Success response</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Controllers.OrchestrationController.Stop(System.String)">
+            <summary>
+            Stops orchestration for the specified orchestrated flow ID
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to stop</param>
+            <returns>Success response</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Controllers.OrchestrationController.GetStatus(System.String)">
+            <summary>
+            Gets orchestration status for the specified orchestrated flow ID
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to check</param>
+            <returns>Orchestration status information</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Controllers.OrchestrationController.GetProcessorHealth(System.String)">
+            <summary>
+            Gets health status for a specific processor
+            </summary>
+            <param name="processorId">The processor ID to check</param>
+            <returns>Processor health status</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Controllers.OrchestrationController.GetProcessorsHealthByOrchestratedFlow(System.String)">
+            <summary>
+            Gets health status for all processors in a specific orchestrated flow
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to check</param>
+            <returns>Health status of all processors in the orchestrated flow</returns>
+        </member>
+        <member name="T:Manager.Orchestrator.Models.OrchestrationCacheModel">
+            <summary>
+            Complete orchestration data model for caching
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.OrchestratedFlowId">
+            <summary>
+            The orchestrated flow ID this cache entry is for
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.StepManager">
+            <summary>
+            Step manager data containing processor IDs, step IDs, next step IDs, and step entities
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.AssignmentManager">
+            <summary>
+            Assignment manager data containing assignments by step ID
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.CreatedAt">
+            <summary>
+            Timestamp when this cache entry was created
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.ExpiresAt">
+            <summary>
+            Timestamp when this cache entry expires
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.Version">
+            <summary>
+            Version of the cache model for future compatibility
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Models.OrchestrationCacheModel.IsExpired">
+            <summary>
+            Indicates if this cache entry has expired
+            </summary>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.IManagerHttpClient">
+            <summary>
+            Interface for HTTP communication with other entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IManagerHttpClient.GetOrchestratedFlowAsync(System.Guid)">
+            <summary>
+            Retrieves the orchestrated flow entity by ID
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID</param>
+            <returns>The orchestrated flow entity</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IManagerHttpClient.GetStepManagerDataAsync(System.Guid)">
+            <summary>
+            Retrieves all step-related data for the orchestrated flow
+            </summary>
+            <param name="workflowId">The workflow ID from the orchestrated flow</param>
+            <returns>Step manager model with all step data</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IManagerHttpClient.GetAssignmentManagerDataAsync(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Retrieves all assignment-related data for the orchestrated flow
+            </summary>
+            <param name="assignmentIds">List of assignment IDs from the orchestrated flow</param>
+            <returns>Assignment manager model with all assignment data</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IManagerHttpClient.GetSchemaDefinitionAsync(System.Guid)">
+            <summary>
+            Retrieves schema definition by schema ID
+            </summary>
+            <param name="schemaId">The schema ID</param>
+            <returns>Schema definition string</returns>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.IOrchestrationCacheService">
+            <summary>
+            Interface for orchestration cache service operations following ProcessorHealthMonitor pattern
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationCacheService.StoreOrchestrationDataAsync(System.Guid,Manager.Orchestrator.Models.OrchestrationCacheModel,System.Nullable{System.TimeSpan})">
+            <summary>
+            Stores orchestration data in cache
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID as cache key</param>
+            <param name="orchestrationData">The complete orchestration data to cache</param>
+            <param name="ttl">Time-to-live for the cache entry</param>
+            <returns>Task representing the cache operation</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationCacheService.GetOrchestrationDataAsync(System.Guid)">
+            <summary>
+            Retrieves orchestration data from cache
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID as cache key</param>
+            <returns>Cached orchestration data or null if not found/expired</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationCacheService.RemoveOrchestrationDataAsync(System.Guid)">
+            <summary>
+            Removes orchestration data from cache
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID as cache key</param>
+            <returns>Task representing the cache operation</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationCacheService.ExistsAndValidAsync(System.Guid)">
+            <summary>
+            Checks if orchestration data exists in cache and is not expired
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID as cache key</param>
+            <returns>True if data exists and is valid, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.IOrchestrationService">
+            <summary>
+            Interface for orchestration business logic service
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationService.StartOrchestrationAsync(System.Guid)">
+            <summary>
+            Starts orchestration for the given orchestrated flow ID
+            Retrieves all required data from managers and stores in cache
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to start</param>
+            <returns>Task representing the start operation</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationService.StopOrchestrationAsync(System.Guid)">
+            <summary>
+            Stops orchestration for the given orchestrated flow ID
+            Removes data from cache and performs cleanup
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to stop</param>
+            <returns>Task representing the stop operation</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationService.GetOrchestrationStatusAsync(System.Guid)">
+            <summary>
+            Gets orchestration status for the given orchestrated flow ID
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to check</param>
+            <returns>Orchestration status information</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationService.GetProcessorHealthAsync(System.Guid)">
+            <summary>
+            Gets health status for a specific processor
+            </summary>
+            <param name="processorId">The processor ID to check</param>
+            <returns>Processor health status or null if not found</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.IOrchestrationService.GetProcessorsHealthByOrchestratedFlowAsync(System.Guid)">
+            <summary>
+            Gets health status for all processors in a specific orchestrated flow
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID to check</param>
+            <returns>Dictionary of processor health statuses or null if orchestrated flow not found in cache</returns>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.OrchestrationStatusModel">
+            <summary>
+            Model representing orchestration status
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.OrchestratedFlowId">
+            <summary>
+            The orchestrated flow ID
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.IsActive">
+            <summary>
+            Indicates if orchestration is active (data exists in cache)
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.StartedAt">
+            <summary>
+            Timestamp when orchestration was started
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.ExpiresAt">
+            <summary>
+            Timestamp when orchestration data expires
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.StepCount">
+            <summary>
+            Number of steps in the orchestration
+            </summary>
+        </member>
+        <member name="P:Manager.Orchestrator.Services.OrchestrationStatusModel.AssignmentCount">
+            <summary>
+            Number of assignments in the orchestration
+            </summary>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.ManagerHttpClient">
+            <summary>
+            HTTP client for communication with other entity managers with resilience patterns
+            </summary>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.OrchestrationCacheService">
+            <summary>
+            Orchestration cache service implementation following ProcessorHealthMonitor pattern
+            </summary>
+        </member>
+        <member name="T:Manager.Orchestrator.Services.OrchestrationService">
+            <summary>
+            Main orchestration business logic service
+            </summary>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.OrchestrationService.ValidateProcessorHealthAsync(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Validates the health of all processors required for orchestration
+            </summary>
+            <param name="processorIds">Collection of processor IDs to validate</param>
+            <exception cref="T:System.InvalidOperationException">Thrown when one or more processors are unhealthy</exception>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.OrchestrationService.FindEntryPoints(Shared.Models.StepManagerModel)">
+            <summary>
+            Finds entry points in the workflow by identifying steps that are not referenced as next steps
+            </summary>
+            <param name="stepManagerData">Step manager data containing step and next step information</param>
+            <returns>Collection of step IDs that are entry points</returns>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.OrchestrationService.ValidateEntryPoints(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Validates that the workflow has valid entry points and is not cyclical
+            </summary>
+            <param name="entryPoints">Collection of entry point step IDs</param>
+            <exception cref="T:System.InvalidOperationException">Thrown when workflow has no entry points (indicating cyclicity)</exception>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.OrchestrationService.ExecuteEntryPointsAsync(System.Guid,System.Collections.Generic.List{System.Guid},Shared.Models.StepManagerModel,Shared.Models.AssignmentManagerModel)">
+            <summary>
+            Executes all entry point steps by publishing ExecuteActivityCommand to their respective processors
+            </summary>
+            <param name="orchestratedFlowId">The orchestrated flow ID</param>
+            <param name="entryPoints">Collection of entry point step IDs</param>
+            <param name="stepManagerData">Step manager data containing step information</param>
+            <param name="assignmentManagerData">Assignment manager data containing assignments</param>
+        </member>
+        <member name="M:Manager.Orchestrator.Services.OrchestrationService.GetCurrentCorrelationIdOrGenerate">
+            <summary>
+            Gets correlation ID from current context or generates a new one if none exists.
+            This is appropriate for workflow start operations.
+            </summary>
+        </member>
+    </members>
+</doc>

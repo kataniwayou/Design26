@@ -1,0 +1,674 @@
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design18\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\obj\Debug\net9.0\Processor.File.sourcelink.json
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design19\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.sourcelink.json
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design19 - Copy (3)\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design21\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design23\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.exe
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.deps.json
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.runtimeconfig.json
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Newtonsoft.Json.Schema.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Processor.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processo.EA56342C.Up2Date
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\refint\Processor.File.dll
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.xml
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.pdb
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\Processor.File.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design26\Processors\Processor.File\obj\Debug\net9.0\ref\Processor.File.dll

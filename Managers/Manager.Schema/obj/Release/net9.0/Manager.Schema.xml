@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Schema</name>
+    </assembly>
+    <members>
+        <member name="M:Manager.Schema.Controllers.SchemaController.IsBreakingSchemaChange(Shared.Entities.SchemaEntity,Shared.Entities.SchemaEntity)">
+            <summary>
+            Determines if the schema update contains breaking changes that could affect dependent entities
+            </summary>
+            <param name="existingEntity">The current schema entity</param>
+            <param name="updatedEntity">The updated schema entity</param>
+            <returns>True if the update contains breaking changes</returns>
+        </member>
+        <member name="M:Manager.Schema.Controllers.SchemaController.GetBreakingChangeDetails(Shared.Entities.SchemaEntity,Shared.Entities.SchemaEntity)">
+            <summary>
+            Gets detailed information about breaking changes for error responses
+            </summary>
+            <param name="existingEntity">The current schema entity</param>
+            <param name="updatedEntity">The updated schema entity</param>
+            <returns>List of breaking change descriptions</returns>
+        </member>
+        <member name="T:Manager.Schema.Services.IManagerHttpClient">
+            <summary>
+            Interface for HTTP communication with other entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Schema.Services.IManagerHttpClient.CheckAddressSchemaReferences(System.Guid)">
+            <summary>
+            Check if a schema is referenced by any address entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema is referenced, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Schema.Services.IManagerHttpClient.CheckDeliverySchemaReferences(System.Guid)">
+            <summary>
+            Check if a schema is referenced by any delivery entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema is referenced, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Schema.Services.IManagerHttpClient.CheckProcessorInputSchemaReferences(System.Guid)">
+            <summary>
+            Check if a schema is referenced as input schema by any processor entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema is referenced as input schema, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Schema.Services.IManagerHttpClient.CheckProcessorOutputSchemaReferences(System.Guid)">
+            <summary>
+            Check if a schema is referenced as output schema by any processor entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema is referenced as output schema, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Schema.Services.ISchemaBreakingChangeAnalyzer">
+            <summary>
+            Interface for analyzing breaking changes in JSON schema definitions
+            </summary>
+        </member>
+        <member name="M:Manager.Schema.Services.ISchemaBreakingChangeAnalyzer.IsBreakingChange(System.String,System.String)">
+            <summary>
+            Determines if the schema update contains breaking changes
+            </summary>
+            <param name="existingDefinition">The current schema definition JSON</param>
+            <param name="updatedDefinition">The updated schema definition JSON</param>
+            <returns>True if the update contains breaking changes</returns>
+        </member>
+        <member name="M:Manager.Schema.Services.ISchemaBreakingChangeAnalyzer.GetBreakingChangeDetails(System.String,System.String)">
+            <summary>
+            Gets detailed information about breaking changes
+            </summary>
+            <param name="existingDefinition">The current schema definition JSON</param>
+            <param name="updatedDefinition">The updated schema definition JSON</param>
+            <returns>List of breaking change descriptions</returns>
+        </member>
+        <member name="T:Manager.Schema.Services.ISchemaReferenceValidator">
+            <summary>
+            Interface for validating schema references across all entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Schema.Services.ISchemaReferenceValidator.HasReferences(System.Guid)">
+            <summary>
+            Check if a schema has any references in other entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema has references, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Schema.Services.ISchemaReferenceValidator.GetReferenceDetails(System.Guid)">
+            <summary>
+            Get detailed information about schema references
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>Schema reference details</returns>
+        </member>
+        <member name="T:Manager.Schema.Services.SchemaReferenceDetails">
+            <summary>
+            Details about schema references across different entity types
+            </summary>
+        </member>
+        <member name="T:Manager.Schema.Services.ManagerHttpClient">
+            <summary>
+            HTTP client for communicating with other entity managers with resilience patterns
+            </summary>
+        </member>
+        <member name="T:Manager.Schema.Services.SchemaBreakingChangeAnalyzer">
+            <summary>
+            Service for analyzing breaking changes in JSON schema definitions
+            </summary>
+        </member>
+        <member name="T:Manager.Schema.Services.SchemaReferenceValidator">
+            <summary>
+            Service for validating schema references across all entity managers
+            </summary>
+        </member>
+    </members>
+</doc>

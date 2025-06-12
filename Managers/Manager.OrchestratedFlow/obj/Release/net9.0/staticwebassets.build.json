@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vfkGjjZ1l9jnHiL0K3X+W+OWYXqGCu5kyUa26KE2yDs=",
+  "Source": "Manager.OrchestratedFlow",
+  "BasePath": "_content/Manager.OrchestratedFlow",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

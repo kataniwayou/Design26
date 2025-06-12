@@ -1,0 +1,13 @@
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Release\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Release\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Release\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Release\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Release\net9.0\ref\Shared.Exceptions.dll

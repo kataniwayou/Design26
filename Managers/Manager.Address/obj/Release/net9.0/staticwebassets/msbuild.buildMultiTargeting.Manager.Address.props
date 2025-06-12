@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Manager.Address.props" />
+</Project>

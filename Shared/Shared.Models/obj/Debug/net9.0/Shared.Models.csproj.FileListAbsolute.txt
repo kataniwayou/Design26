@@ -1,0 +1,119 @@
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.deps.json
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.M.23DC7B59.Up2Date
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Models\obj\Debug\net9.0\ref\Shared.Models.dll

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shared.Services</name>
+    </assembly>
+    <members>
+        <member name="T:Shared.Services.CacheService">
+            <summary>
+            Hazelcast-specific cache service implementation
+            </summary>
+        </member>
+        <member name="T:Shared.Services.ICacheService">
+            <summary>
+            Interface for cache service operations
+            </summary>
+        </member>
+        <member name="M:Shared.Services.ICacheService.GetAsync(System.String,System.String)">
+            <summary>
+            Retrieves data from cache
+            </summary>
+            <param name="mapName">Name of the cache map</param>
+            <param name="key">Cache key</param>
+            <returns>Cached data or null if not found</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.SetAsync(System.String,System.String,System.String)">
+            <summary>
+            Stores data in cache
+            </summary>
+            <param name="mapName">Name of the cache map</param>
+            <param name="key">Cache key</param>
+            <param name="value">Data to store</param>
+            <returns>Task representing the operation</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.SetAsync(System.String,System.String,System.String,System.TimeSpan)">
+            <summary>
+            Stores data in cache with time-to-live (TTL)
+            </summary>
+            <param name="mapName">Name of the cache map</param>
+            <param name="key">Cache key</param>
+            <param name="value">Data to store</param>
+            <param name="ttl">Time-to-live for the cache entry</param>
+            <returns>Task representing the operation</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.ExistsAsync(System.String,System.String)">
+            <summary>
+            Checks if a key exists in cache
+            </summary>
+            <param name="mapName">Name of the cache map</param>
+            <param name="key">Cache key</param>
+            <returns>True if key exists, false otherwise</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.RemoveAsync(System.String,System.String)">
+            <summary>
+            Removes data from cache
+            </summary>
+            <param name="mapName">Name of the cache map</param>
+            <param name="key">Cache key</param>
+            <returns>Task representing the operation</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.IsHealthyAsync">
+            <summary>
+            Checks if the cache service is healthy and accessible
+            </summary>
+            <returns>True if healthy, false otherwise</returns>
+        </member>
+        <member name="M:Shared.Services.ICacheService.GetCacheKey(System.Guid,System.Guid,System.Guid,System.Guid)">
+            <summary>
+            Generates a standardized cache key for orchestration workflow data using the pattern:
+            {orchestratedFlowEntityId}:{stepId}:{executionId}:{correlationId}
+            This ensures consistent key formatting across all processors and orchestration components.
+            </summary>
+        </member>
+    </members>
+</doc>

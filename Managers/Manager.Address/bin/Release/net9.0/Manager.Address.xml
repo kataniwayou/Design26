@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Address</name>
+    </assembly>
+    <members>
+        <member name="M:Manager.Address.Controllers.AddressController.CheckSchemaReference(System.Guid)">
+            <summary>
+            Check if a schema is referenced by any address entities
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema is referenced, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Address.Models.BatchAddressRequest">
+            <summary>
+            Request model for batch address operations
+            </summary>
+        </member>
+        <member name="P:Manager.Address.Models.BatchAddressRequest.EntityIds">
+            <summary>
+            List of entity IDs to retrieve as addresses
+            </summary>
+        </member>
+        <member name="T:Manager.Address.Models.BatchAddressResponse">
+            <summary>
+            Response model for batch address operations
+            </summary>
+        </member>
+        <member name="P:Manager.Address.Models.BatchAddressResponse.Addresses">
+            <summary>
+            Successfully retrieved addresses
+            </summary>
+        </member>
+        <member name="P:Manager.Address.Models.BatchAddressResponse.NotFound">
+            <summary>
+            IDs that were not found
+            </summary>
+        </member>
+        <member name="P:Manager.Address.Models.BatchAddressResponse.RequestedCount">
+            <summary>
+            Total number of requested IDs
+            </summary>
+        </member>
+        <member name="P:Manager.Address.Models.BatchAddressResponse.FoundCount">
+            <summary>
+            Number of successfully retrieved addresses
+            </summary>
+        </member>
+        <member name="M:Manager.Address.Repositories.IAddressEntityRepository.HasSchemaReferences(System.Guid)">
+            <summary>
+            Check if any address entities reference the specified schema ID
+            </summary>
+            <param name="schemaId">The schema ID to check for references</param>
+            <returns>True if any address entities reference the schema, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Address.Services.EntityReferenceValidator">
+            <summary>
+            Service for validating entity references across all entity managers
+            </summary>
+        </member>
+        <member name="T:Manager.Address.Services.IEntityReferenceValidator">
+            <summary>
+            Interface for validating entity references across all entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Address.Services.IEntityReferenceValidator.HasAssignmentReferences(System.Guid)">
+            <summary>
+            Check if an entity has any references in assignment entities
+            </summary>
+            <param name="entityId">The entity ID to check</param>
+            <returns>True if entity has references, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Address.Services.IEntityReferenceValidator.ValidateEntityCanBeDeleted(System.Guid)">
+            <summary>
+            Validate that an entity can be deleted (no references exist)
+            </summary>
+            <param name="entityId">The entity ID to validate</param>
+            <exception cref="T:System.InvalidOperationException">Thrown if entity cannot be deleted due to references or validation service unavailable</exception>
+        </member>
+        <member name="M:Manager.Address.Services.IEntityReferenceValidator.ValidateEntityCanBeUpdated(System.Guid)">
+            <summary>
+            Validate that an entity can be updated (for future use if needed)
+            </summary>
+            <param name="entityId">The entity ID to validate</param>
+            <exception cref="T:System.InvalidOperationException">Thrown if entity cannot be updated due to references or validation service unavailable</exception>
+        </member>
+        <member name="T:Manager.Address.Services.IManagerHttpClient">
+            <summary>
+            Interface for HTTP communication with other entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Address.Services.IManagerHttpClient.CheckEntityReferencesInAssignments(System.Guid)">
+            <summary>
+            Check if an entity is referenced by any assignment entities
+            </summary>
+            <param name="entityId">The entity ID to check</param>
+            <returns>True if entity is referenced, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Address.Services.IManagerHttpClient.CheckSchemaExists(System.Guid)">
+            <summary>
+            Check if a schema exists in the Schema Manager
+            </summary>
+            <param name="schemaId">The schema ID to check</param>
+            <returns>True if schema exists, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Address.Services.ISchemaValidationService">
+            <summary>
+            Interface for validating schema references during entity operations
+            </summary>
+        </member>
+        <member name="M:Manager.Address.Services.ISchemaValidationService.ValidateSchemaExists(System.Guid)">
+            <summary>
+            Validates that a schema exists before creating or updating an entity
+            </summary>
+            <param name="schemaId">The schema ID to validate</param>
+            <returns>Task that completes successfully if schema exists</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown if schema doesn't exist or validation fails</exception>
+        </member>
+        <member name="T:Manager.Address.Services.ManagerHttpClient">
+            <summary>
+            HTTP client for communicating with other entity managers with resilience patterns
+            </summary>
+        </member>
+        <member name="T:Manager.Address.Services.SchemaValidationService">
+            <summary>
+            Service for validating schema references during entity operations
+            Implements strong consistency model with fail-safe approach
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Step</name>
+    </assembly>
+    <members>
+        <member name="T:Manager.Step.Models.BatchStepRequest">
+            <summary>
+            Request model for batch step operations
+            </summary>
+        </member>
+        <member name="P:Manager.Step.Models.BatchStepRequest.StepIds">
+            <summary>
+            List of step IDs to retrieve
+            </summary>
+        </member>
+        <member name="T:Manager.Step.Models.BatchStepResponse">
+            <summary>
+            Response model for batch step operations
+            </summary>
+        </member>
+        <member name="P:Manager.Step.Models.BatchStepResponse.Steps">
+            <summary>
+            Successfully retrieved steps
+            </summary>
+        </member>
+        <member name="P:Manager.Step.Models.BatchStepResponse.NotFound">
+            <summary>
+            IDs that were not found
+            </summary>
+        </member>
+        <member name="P:Manager.Step.Models.BatchStepResponse.RequestedCount">
+            <summary>
+            Total number of requested IDs
+            </summary>
+        </member>
+        <member name="P:Manager.Step.Models.BatchStepResponse.FoundCount">
+            <summary>
+            Number of successfully retrieved steps
+            </summary>
+        </member>
+        <member name="T:Manager.Step.Services.EntityReferenceValidator">
+            <summary>
+            Service for validating entity references before delete/update operations
+            </summary>
+        </member>
+        <member name="T:Manager.Step.Services.IEntityReferenceValidator">
+            <summary>
+            Service for validating entity references before delete/update operations
+            </summary>
+        </member>
+        <member name="M:Manager.Step.Services.IEntityReferenceValidator.ValidateStepCanBeDeleted(System.Guid)">
+            <summary>
+            Validates that a step entity can be deleted by checking for references in other entities
+            </summary>
+            <param name="stepId">The step ID to validate</param>
+            <exception cref="T:System.InvalidOperationException">Thrown if the step cannot be deleted due to existing references</exception>
+        </member>
+        <member name="M:Manager.Step.Services.IEntityReferenceValidator.ValidateStepCanBeUpdated(System.Guid)">
+            <summary>
+            Validates that a step entity can be updated by checking for references in other entities
+            </summary>
+            <param name="stepId">The step ID to validate</param>
+            <exception cref="T:System.InvalidOperationException">Thrown if the step cannot be updated due to existing references</exception>
+        </member>
+        <member name="T:Manager.Step.Services.IManagerHttpClient">
+            <summary>
+            HTTP client interface for communication with other entity managers
+            </summary>
+        </member>
+        <member name="M:Manager.Step.Services.IManagerHttpClient.CheckAssignmentStepReferences(System.Guid)">
+            <summary>
+            Check if any assignment entities reference the specified step ID
+            </summary>
+            <param name="stepId">The step ID to check for references</param>
+            <returns>True if any assignment entities reference the step, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Step.Services.IManagerHttpClient.CheckWorkflowStepReferences(System.Guid)">
+            <summary>
+            Check if any workflow entities reference the specified step ID
+            </summary>
+            <param name="stepId">The step ID to check for references</param>
+            <returns>True if any workflow entities reference the step, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Step.Services.IManagerHttpClient.CheckProcessorExists(System.Guid)">
+            <summary>
+            Check if a processor exists in the Processor Manager
+            </summary>
+            <param name="processorId">The processor ID to check</param>
+            <returns>True if processor exists, false otherwise</returns>
+        </member>
+        <member name="M:Manager.Step.Services.IManagerHttpClient.CheckStepExists(System.Guid)">
+            <summary>
+            Check if a step exists in the Step Manager
+            </summary>
+            <param name="stepId">The step ID to check</param>
+            <returns>True if step exists, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Step.Services.IProcessorValidationService">
+            <summary>
+            Interface for validating processor and step references during step entity operations
+            </summary>
+        </member>
+        <member name="M:Manager.Step.Services.IProcessorValidationService.ValidateProcessorExists(System.Guid)">
+            <summary>
+            Validates that a processor exists before creating or updating a step entity
+            </summary>
+            <param name="processorId">The processor ID to validate</param>
+            <returns>Task that completes successfully if processor exists</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown if processor doesn't exist or validation fails</exception>
+        </member>
+        <member name="M:Manager.Step.Services.IProcessorValidationService.ValidateNextStepsExist(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Validates that all next step IDs exist before creating or updating a step entity
+            </summary>
+            <param name="nextStepIds">The list of next step IDs to validate</param>
+            <returns>Task that completes successfully if all next steps exist</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown if any next step doesn't exist or validation fails</exception>
+        </member>
+        <member name="T:Manager.Step.Services.ManagerHttpClient">
+            <summary>
+            HTTP client for communication with other entity managers with resilience patterns
+            </summary>
+        </member>
+        <member name="T:Manager.Step.Services.ProcessorValidationService">
+            <summary>
+            Service for validating processor references during step entity operations
+            Implements strong consistency model with fail-safe approach
+            </summary>
+        </member>
+    </members>
+</doc>

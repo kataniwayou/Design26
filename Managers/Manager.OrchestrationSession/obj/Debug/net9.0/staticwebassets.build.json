@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HylEYqL8vvp7o+6bG4l0nRNh4osbickL1VCmyc30niA=",
+  "Source": "Manager.OrchestrationSession",
+  "BasePath": "_content/Manager.OrchestrationSession",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

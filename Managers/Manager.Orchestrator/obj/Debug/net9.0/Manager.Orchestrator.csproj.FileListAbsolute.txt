@@ -1,0 +1,751 @@
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\Administrator\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design20\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design21\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design23\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.staticwebassets.endpoints.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.exe
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.deps.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.runtimeconfig.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.MongoDb.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\DnsClient.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Hazelcast.Net.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Snappier.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Configuration.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.HealthChecks.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MassTransit.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.MongoDB.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\bin\Debug\net9.0\Shared.Repositories.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\scopedcss\bundle\Manager.Orchestrator.styles.css
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.Manager.Orchestrator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.build.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manager.Orchestrator.props
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager..0EB875F1.Up2Date
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\refint\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.xml
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.pdb
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\Manager.Orchestrator.genruntimeconfig.cache
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\ref\Manager.Orchestrator.dll
+C:\Users\UserL\source\repos\Design26\Managers\Manager.Orchestrator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

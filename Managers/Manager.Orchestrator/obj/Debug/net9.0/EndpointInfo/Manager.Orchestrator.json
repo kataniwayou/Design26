@@ -1,0 +1,474 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Manager.Orchestrator",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Orchestration/start/{orchestratedFlowId}": {
+      "post": {
+        "tags": [
+          "Orchestration"
+        ],
+        "parameters": [
+          {
+            "name": "orchestratedFlowId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/Orchestration/stop/{orchestratedFlowId}": {
+      "post": {
+        "tags": [
+          "Orchestration"
+        ],
+        "parameters": [
+          {
+            "name": "orchestratedFlowId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/Orchestration/status/{orchestratedFlowId}": {
+      "get": {
+        "tags": [
+          "Orchestration"
+        ],
+        "parameters": [
+          {
+            "name": "orchestratedFlowId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/OrchestrationStatusModel"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OrchestrationStatusModel"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OrchestrationStatusModel"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/Orchestration/processor-health/{processorId}": {
+      "get": {
+        "tags": [
+          "Orchestration"
+        ],
+        "parameters": [
+          {
+            "name": "processorId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorHealthResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorHealthResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorHealthResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/Orchestration/processors-health/{orchestratedFlowId}": {
+      "get": {
+        "tags": [
+          "Orchestration"
+        ],
+        "parameters": [
+          {
+            "name": "orchestratedFlowId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorsHealthResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorsHealthResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProcessorsHealthResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "HealthCheckResult": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "$ref": "#/components/schemas/HealthStatus"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "data": {
+            "type": "object",
+            "additionalProperties": { },
+            "nullable": true
+          },
+          "duration": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "exception": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HealthStatus": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "OrchestrationStatusModel": {
+        "type": "object",
+        "properties": {
+          "orchestratedFlowId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "isActive": {
+            "type": "boolean"
+          },
+          "startedAt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "expiresAt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "stepCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "assignmentCount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessorHealthResponse": {
+        "type": "object",
+        "properties": {
+          "processorId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "status": {
+            "$ref": "#/components/schemas/HealthStatus"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastUpdated": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "expiresAt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "reportingPodId": {
+            "type": "string",
+            "nullable": true
+          },
+          "uptime": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "metadata": {
+            "$ref": "#/components/schemas/ProcessorMetadata"
+          },
+          "performanceMetrics": {
+            "$ref": "#/components/schemas/ProcessorPerformanceMetrics"
+          },
+          "healthChecks": {
+            "type": "object",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/HealthCheckResult"
+            },
+            "nullable": true
+          },
+          "isExpired": {
+            "type": "boolean",
+            "readOnly": true
+          },
+          "retrievedAt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessorMetadata": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "version": {
+            "type": "string",
+            "nullable": true
+          },
+          "startTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hostName": {
+            "type": "string",
+            "nullable": true
+          },
+          "processId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "environment": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessorPerformanceMetrics": {
+        "type": "object",
+        "properties": {
+          "cpuUsagePercent": {
+            "type": "number",
+            "format": "double"
+          },
+          "memoryUsageBytes": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "memoryUsageMB": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalActivitiesProcessed": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "successfulActivities": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "failedActivities": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "activitiesPerMinute": {
+            "type": "number",
+            "format": "double"
+          },
+          "averageExecutionTimeMs": {
+            "type": "number",
+            "format": "double"
+          },
+          "successRatePercent": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "collectedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessorsHealthResponse": {
+        "type": "object",
+        "properties": {
+          "orchestratedFlowId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "processors": {
+            "type": "object",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/ProcessorHealthResponse"
+            },
+            "nullable": true
+          },
+          "summary": {
+            "$ref": "#/components/schemas/ProcessorsHealthSummary"
+          },
+          "retrievedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessorsHealthSummary": {
+        "type": "object",
+        "properties": {
+          "totalProcessors": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "healthyProcessors": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "degradedProcessors": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unhealthyProcessors": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "noHealthDataProcessors": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "overallStatus": {
+            "$ref": "#/components/schemas/HealthStatus"
+          },
+          "problematicProcessors": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

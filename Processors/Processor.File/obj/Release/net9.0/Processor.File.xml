@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Processor.File</name>
+    </assembly>
+    <members>
+        <member name="T:Processor.File.FileProcessorApplication">
+            <summary>
+            Sample concrete implementation of BaseProcessorApplication
+            Demonstrates how to create a specific processor service
+            The base class now provides a complete default implementation that can be overridden if needed
+            </summary>
+        </member>
+        <member name="M:Processor.File.FileProcessorApplication.ConfigureLogging(Microsoft.Extensions.Logging.ILoggingBuilder)">
+            <summary>
+            Override to add console logging for debugging
+            </summary>
+        </member>
+        <member name="M:Processor.File.FileProcessorApplication.ProcessActivityDataAsync(System.Guid,System.Guid,System.Guid,System.Guid,System.Collections.Generic.List{Shared.Models.AssignmentModel},System.String,System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Concrete implementation of the activity processing logic
+            This is where the specific processor business logic is implemented
+            Handles input parsing and validation internally
+            </summary>
+        </member>
+        <member name="T:Processor.File.ProcessorImplementationHash">
+            <summary>
+            Auto-generated class containing SHA-256 hash of processor implementation files.
+            Used for runtime integrity validation to ensure version consistency.
+            </summary>
+        </member>
+        <member name="P:Processor.File.ProcessorImplementationHash.Hash">
+            <summary>
+            SHA-256 hash of the processor implementation file: FileProcessorApplication.cs
+            </summary>
+        </member>
+        <member name="F:Processor.File.ProcessorImplementationHash.Version">
+            <summary>
+            Processor version from assembly information.
+            </summary>
+        </member>
+        <member name="F:Processor.File.ProcessorImplementationHash.Name">
+            <summary>
+            Processor name from assembly information.
+            </summary>
+        </member>
+        <member name="F:Processor.File.ProcessorImplementationHash.GeneratedAt">
+            <summary>
+            Timestamp when hash was generated.
+            </summary>
+        </member>
+        <member name="F:Processor.File.ProcessorImplementationHash.SourceFile">
+            <summary>
+            Source file that was hashed.
+            </summary>
+        </member>
+    </members>
+</doc>

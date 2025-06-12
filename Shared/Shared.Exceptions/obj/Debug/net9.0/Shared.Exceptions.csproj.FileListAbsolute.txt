@@ -1,0 +1,91 @@
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.deps.json
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\bin\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\refint\Shared.Exceptions.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\Shared.Exceptions.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Exceptions\obj\Debug\net9.0\ref\Shared.Exceptions.dll

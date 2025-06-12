@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nWqYx8OIHncgGWtoMsjzrUKTwmq9L8KhM9IhL2gn0NE=",
+  "Source": "Manager.Orchestrator",
+  "BasePath": "_content/Manager.Orchestrator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

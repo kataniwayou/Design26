@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0+vtyYjH1j3TWXjOy49iz/WzCyVRUSXvJAlyE2wQ05Q=",
+  "Source": "Manager.Workflow",
+  "BasePath": "_content/Manager.Workflow",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

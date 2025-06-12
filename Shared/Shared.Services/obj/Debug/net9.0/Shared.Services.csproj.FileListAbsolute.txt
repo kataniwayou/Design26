@@ -1,0 +1,118 @@
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\Administrator\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design20\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design21\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design23\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Entities.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Extensions.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Models.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Extensions.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Entities.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Entities.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Models.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\bin\Debug\net9.0\Shared.Models.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Services\obj\Debug\net9.0\Shared.S.59F6922C.Up2Date
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.S.59F6922C.Up2Date
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.S.59F6922C.Up2Date
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll

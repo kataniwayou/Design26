@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.Workflow</name>
+    </assembly>
+    <members>
+        <member name="T:Manager.Workflow.Services.IManagerHttpClient">
+            <summary>
+            HTTP client interface for communicating with other managers for validation
+            </summary>
+        </member>
+        <member name="M:Manager.Workflow.Services.IManagerHttpClient.CheckStepExists(System.Guid)">
+            <summary>
+            Check if a step exists in the Step Manager
+            </summary>
+            <param name="stepId">The step ID to check</param>
+            <returns>True if step exists, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Workflow.Services.IOrchestratedFlowValidationService">
+            <summary>
+            Service for validating referential integrity with OrchestratedFlow entities
+            </summary>
+        </member>
+        <member name="M:Manager.Workflow.Services.IOrchestratedFlowValidationService.CheckWorkflowReferencesAsync(System.Guid)">
+            <summary>
+            Check if any OrchestratedFlow entities reference the specified workflow ID
+            </summary>
+            <param name="workflowId">The workflow ID to check for references</param>
+            <returns>True if any OrchestratedFlow entities reference the workflow, false otherwise</returns>
+        </member>
+        <member name="T:Manager.Workflow.Services.IWorkflowValidationService">
+            <summary>
+            Service interface for validating Workflow entity references
+            </summary>
+        </member>
+        <member name="M:Manager.Workflow.Services.IWorkflowValidationService.ValidateStepsExist(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Validates that all step IDs exist in the Step Manager
+            </summary>
+            <param name="stepIds">The list of step IDs to validate</param>
+            <returns>Task that completes when validation is done</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown when any step doesn't exist or validation service is unavailable</exception>
+        </member>
+        <member name="T:Manager.Workflow.Services.ManagerHttpClient">
+            <summary>
+            HTTP client service for communicating with other managers for validation
+            </summary>
+        </member>
+        <member name="T:Manager.Workflow.Services.OrchestratedFlowValidationService">
+            <summary>
+            Service for validating referential integrity with OrchestratedFlow entities
+            </summary>
+        </member>
+        <member name="T:Manager.Workflow.Services.WorkflowValidationService">
+            <summary>
+            Service for validating Workflow entity references
+            </summary>
+        </member>
+    </members>
+</doc>

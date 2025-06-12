@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager.OrchestratedFlow</name>
+    </assembly>
+    <members>
+        <member name="M:Manager.OrchestratedFlow.Repositories.IOrchestratedFlowEntityRepository.HasWorkflowReferences(System.Guid)">
+            <summary>
+            Check if any OrchestratedFlow entities reference the specified workflow ID
+            </summary>
+            <param name="workflowId">The workflow ID to check for references</param>
+            <returns>True if any OrchestratedFlow entities reference the workflow, false otherwise</returns>
+        </member>
+        <member name="M:Manager.OrchestratedFlow.Repositories.IOrchestratedFlowEntityRepository.HasAssignmentReferences(System.Guid)">
+            <summary>
+            Check if any OrchestratedFlow entities reference the specified assignment ID
+            </summary>
+            <param name="assignmentId">The assignment ID to check for references</param>
+            <returns>True if any OrchestratedFlow entities reference the assignment, false otherwise</returns>
+        </member>
+        <member name="T:Manager.OrchestratedFlow.Services.AssignmentValidationService">
+            <summary>
+            Service for validating references to Assignment entities
+            </summary>
+        </member>
+        <member name="T:Manager.OrchestratedFlow.Services.IAssignmentValidationService">
+            <summary>
+            Service for validating references to Assignment entities
+            </summary>
+        </member>
+        <member name="M:Manager.OrchestratedFlow.Services.IAssignmentValidationService.ValidateAssignmentExistsAsync(System.Guid)">
+            <summary>
+            Check if the specified assignment ID exists
+            </summary>
+            <param name="assignmentId">The assignment ID to validate</param>
+            <returns>True if the assignment exists, false otherwise</returns>
+        </member>
+        <member name="M:Manager.OrchestratedFlow.Services.IAssignmentValidationService.ValidateAssignmentsExistAsync(System.Collections.Generic.IEnumerable{System.Guid})">
+            <summary>
+            Check if all specified assignment IDs exist
+            </summary>
+            <param name="assignmentIds">The assignment IDs to validate</param>
+            <returns>True if all assignments exist, false otherwise</returns>
+        </member>
+        <member name="T:Manager.OrchestratedFlow.Services.IWorkflowValidationService">
+            <summary>
+            Service for validating references to Workflow entities
+            </summary>
+        </member>
+        <member name="M:Manager.OrchestratedFlow.Services.IWorkflowValidationService.ValidateWorkflowExistsAsync(System.Guid)">
+            <summary>
+            Check if the specified workflow ID exists
+            </summary>
+            <param name="workflowId">The workflow ID to validate</param>
+            <returns>True if the workflow exists, false otherwise</returns>
+        </member>
+        <member name="T:Manager.OrchestratedFlow.Services.WorkflowValidationService">
+            <summary>
+            Service for validating references to Workflow entities
+            </summary>
+        </member>
+    </members>
+</doc>

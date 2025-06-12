@@ -1,0 +1,42 @@
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.deps.json
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\refint\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25\Shared\Shared.Correlation\obj\Debug\net9.0\ref\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.deps.json
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\refint\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design25 - Copy (with correlationId) - Copy\Shared\Shared.Correlation\obj\Debug\net9.0\ref\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.deps.json
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\bin\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.AssemblyReference.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfoInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.AssemblyInfo.cs
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.csproj.CoreCompileInputs.cache
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\refint\Shared.Correlation.dll
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.xml
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\Shared.Correlation.pdb
+C:\Users\UserL\source\repos\Design26\Shared\Shared.Correlation\obj\Debug\net9.0\ref\Shared.Correlation.dll
