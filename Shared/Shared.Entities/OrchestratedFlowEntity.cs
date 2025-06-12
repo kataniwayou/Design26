@@ -31,4 +31,20 @@ public class OrchestratedFlowEntity : BaseEntity
     [BsonRepresentation(BsonType.String)]
     [NoEmptyGuids(ErrorMessage = "AssignmentIds cannot contain empty GUIDs")]
     public List<Guid> AssignmentIds { get; set; } = new List<Guid>();
+
+    /// <summary>
+    /// Gets or sets the cron expression for scheduled execution.
+    /// This defines when the orchestrated flow should be automatically executed.
+    /// Can be null if no scheduling is required (manual execution only).
+    /// Example: "0 0 12 * * ?" for daily at noon
+    /// </summary>
+    [BsonElement("cronExpression")]
+    public string? CronExpression { get; set; }
+
+    /// <summary>
+    /// Gets or sets whether the scheduled execution is currently enabled.
+    /// This allows temporarily disabling scheduled execution without removing the cron expression.
+    /// </summary>
+    [BsonElement("isScheduleEnabled")]
+    public bool IsScheduleEnabled { get; set; } = false;
 }

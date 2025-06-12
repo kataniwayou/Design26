@@ -18,6 +18,7 @@ public class OrchestrationService : IOrchestrationService
     private readonly IManagerHttpClient _managerHttpClient;
     private readonly IOrchestrationCacheService _cacheService;
     private readonly ICacheService _rawCacheService;
+    private readonly IOrchestrationSchedulerService _schedulerService;
     private readonly ILogger<OrchestrationService> _logger;
     private readonly IBus _bus;
     private static readonly ActivitySource ActivitySource = new("Manager.Orchestrator.Services");
@@ -26,12 +27,14 @@ public class OrchestrationService : IOrchestrationService
         IManagerHttpClient managerHttpClient,
         IOrchestrationCacheService cacheService,
         ICacheService rawCacheService,
+        IOrchestrationSchedulerService schedulerService,
         ILogger<OrchestrationService> logger,
         IBus bus)
     {
         _managerHttpClient = managerHttpClient;
         _cacheService = cacheService;
         _rawCacheService = rawCacheService;
+        _schedulerService = schedulerService;
         _logger = logger;
         _bus = bus;
     }
@@ -106,35 +109,40 @@ public class OrchestrationService : IOrchestrationService
                     ?.SetTag("assignmentCount", assignmentCount)
                     ?.SetTag("processorCount", processorCount);
 
-            // Step 3: Create complete orchestration cache model
-            activity?.SetTag("step", "3-CreateCacheModel");
-            var orchestrationData = new OrchestrationCacheModel
-            {
-                OrchestratedFlowId = orchestratedFlowId,
-                StepManager = stepManagerData,
-                AssignmentManager = assignmentManagerData,
-                CreatedAt = DateTime.UtcNow
-            };
-
-            // Step 4: Store in cache
-            activity?.SetTag("step", "4-StoreInCache");
-            await _cacheService.StoreOrchestrationDataAsync(orchestratedFlowId, orchestrationData);
-
-            // Step 5: Check processor health
-            activity?.SetTag("step", "5-ValidateProcessorHealth");
-            await ValidateProcessorHealthAsync(stepManagerData.ProcessorIds);
-
-            // Step 6: Find and validate entry points
-            activity?.SetTag("step", "6-FindAndValidateEntryPoints");
+            // Step 3: Find and validate entry points
+            activity?.SetTag("step", "3-FindAndValidateEntryPoints");
             var entryPoints = FindEntryPoints(stepManagerData);
             ValidateEntryPoints(entryPoints);
             entryPointCount = entryPoints.Count;
             activity?.SetTag("entryPointCount", entryPointCount);
 
+            // Step 4: Create complete orchestration cache model
+            activity?.SetTag("step", "4-CreateCacheModel");
+            var orchestrationData = new OrchestrationCacheModel
+            {
+                OrchestratedFlowId = orchestratedFlowId,
+                StepManager = stepManagerData,
+                AssignmentManager = assignmentManagerData,
+                EntryPoints = entryPoints, // ✅ Cache the calculated entry points
+                CreatedAt = DateTime.UtcNow
+            };
+
+            // Step 5: Store in cache
+            activity?.SetTag("step", "5-StoreInCache");
+            await _cacheService.StoreOrchestrationDataAsync(orchestratedFlowId, orchestrationData);
+
+            // Step 6: Check processor health
+            activity?.SetTag("step", "6-ValidateProcessorHealth");
+            await ValidateProcessorHealthAsync(stepManagerData.ProcessorIds);
+
             // Step 7: Execute entry point steps
             activity?.SetTag("step", "7-ExecuteEntryPoints");
-            await ExecuteEntryPointsAsync(orchestratedFlowId, entryPoints, stepManagerData, assignmentManagerData);
-            publishedCommands = entryPoints.Count;
+            await ExecuteEntryPointsAsync(orchestratedFlowId, orchestrationData.EntryPoints, stepManagerData, assignmentManagerData);
+            publishedCommands = orchestrationData.EntryPoints.Count;
+
+            // Step 8: Start scheduler if cron expression is provided and enabled
+            activity?.SetTag("step", "8-StartScheduler");
+            await StartSchedulerIfConfiguredAsync(orchestratedFlowId, orchestratedFlow);
 
             stopwatch.Stop();
             activity?.SetTag("publishedCommands", publishedCommands)
@@ -172,8 +180,14 @@ public class OrchestrationService : IOrchestrationService
             {
                 _logger.LogWarningWithCorrelation("Orchestration not found or already expired. OrchestratedFlowId: {OrchestratedFlowId}",
                     orchestratedFlowId);
+
+                // Still try to stop scheduler in case it's running
+                await StopSchedulerIfRunningAsync(orchestratedFlowId);
                 return;
             }
+
+            // Stop scheduler if running
+            await StopSchedulerIfRunningAsync(orchestratedFlowId);
 
             // Remove from cache
             await _cacheService.RemoveOrchestrationDataAsync(orchestratedFlowId);
@@ -315,7 +329,7 @@ public class OrchestrationService : IOrchestrationService
         _logger.LogInformationWithCorrelation("All {ProcessorCount} processors are healthy", processorIds.Count);
     }
 
-    public async Task<Shared.Models.ProcessorHealthResponse?> GetProcessorHealthAsync(Guid processorId)
+    public async Task<ProcessorHealthResponse?> GetProcessorHealthAsync(Guid processorId)
     {
         using var activity = ActivitySource.StartActivity("GetProcessorHealth");
         activity?.SetTag("processor.id", processorId.ToString());
@@ -376,7 +390,7 @@ public class OrchestrationService : IOrchestrationService
         }
     }
 
-    public async Task<Shared.Models.ProcessorsHealthResponse?> GetProcessorsHealthByOrchestratedFlowAsync(Guid orchestratedFlowId)
+    public async Task<ProcessorsHealthResponse?> GetProcessorsHealthByOrchestratedFlowAsync(Guid orchestratedFlowId)
     {
         using var activity = ActivitySource.StartActivity("GetProcessorsHealthByOrchestratedFlow");
         activity?.SetTag("orchestrated_flow.id", orchestratedFlowId.ToString());
@@ -581,44 +595,44 @@ public class OrchestrationService : IOrchestrationService
                 var executionId = Guid.NewGuid();
                 var correlationId = GetCurrentCorrelationIdOrGenerate(); // ✅ Use orchestration correlation ID
 
-                // Write ProcessedActivityData.Data example to processor cache before publishing
-                var mapName = processorId.ToString();
-                var cacheKey = _rawCacheService.GetCacheKey(orchestratedFlowId, entryPoint, executionId, correlationId);
+                //// Write ProcessedActivityData.Data example to processor cache before publishing
+                //var mapName = processorId.ToString();
+                //var cacheKey = _rawCacheService.GetCacheKey(orchestratedFlowId, entryPoint, executionId, correlationId);
 
-                // Create ProcessedActivityData.Data example for testing schemas between orchestrator and processor
-                var processedActivityData = new
-                {
-                    processorId = processorId.ToString(),
-                    orchestratedFlowEntityId = orchestratedFlowId.ToString(),
-                    entitiesProcessed = assignmentModels.Count,
-                    processingDetails = new
-                    {
-                        processedAt = DateTime.UtcNow,
-                        processingDuration = "0ms",
-                        inputDataReceived = true,
-                        inputMetadataReceived = true,
-                        sampleData = $"Entry point initialization data for step {entryPoint}",
-                        entityTypes = assignmentModels.Select(e => e.GetType().Name).Distinct().ToArray(),
-                        entities = assignmentModels.Select(e => new
-                        {
-                            entityId = e.EntityId.ToString(),
-                            type = e.GetType().Name,
-                            assignmentType = e.GetType().Name
-                        }).ToArray()
-                    }
-                };
+                //// Create ProcessedActivityData.Data example for testing schemas between orchestrator and processor
+                //var processedActivityData = new
+                //{
+                //    processorId = processorId.ToString(),
+                //    orchestratedFlowEntityId = orchestratedFlowId.ToString(),
+                //    entitiesProcessed = assignmentModels.Count,
+                //    processingDetails = new
+                //    {
+                //        processedAt = DateTime.UtcNow,
+                //        processingDuration = "0ms",
+                //        inputDataReceived = true,
+                //        inputMetadataReceived = true,
+                //        sampleData = $"Entry point initialization data for step {entryPoint}",
+                //        entityTypes = assignmentModels.Select(e => e.GetType().Name).Distinct().ToArray(),
+                //        entities = assignmentModels.Select(e => new
+                //        {
+                //            entityId = e.EntityId.ToString(),
+                //            type = e.GetType().Name,
+                //            assignmentType = e.GetType().Name
+                //        }).ToArray()
+                //    }
+                //};
 
-                var exampleData = System.Text.Json.JsonSerializer.Serialize(processedActivityData, new System.Text.Json.JsonSerializerOptions
-                {
-                    PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase,
-                    WriteIndented = false
-                });
+                //var exampleData = System.Text.Json.JsonSerializer.Serialize(processedActivityData, new System.Text.Json.JsonSerializerOptions
+                //{
+                //    PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase,
+                //    WriteIndented = false
+                //});
 
-                // Store example data in processor cache
-                await _rawCacheService.SetAsync(mapName, cacheKey, exampleData);
+                //// Store example data in processor cache
+                //await _rawCacheService.SetAsync(mapName, cacheKey, exampleData);
 
-                _logger.LogDebugWithCorrelation("Stored example data in processor cache. MapName: {MapName}, Key: {Key}, Data: {Data}",
-                    mapName, cacheKey, exampleData);
+                //_logger.LogDebugWithCorrelation("Stored example data in processor cache. MapName: {MapName}, Key: {Key}, Data: {Data}",
+                //    mapName, cacheKey, exampleData);
 
                 // Create ExecuteActivityCommand
                 var command = new ExecuteActivityCommand
@@ -678,5 +692,100 @@ public class OrchestrationService : IOrchestrationService
 
         // Generate new correlation ID for new workflow start
         return Guid.NewGuid();
+    }
+
+    /// <summary>
+    /// Starts the scheduler for the orchestrated flow if cron expression is configured and enabled
+    /// </summary>
+    /// <param name="orchestratedFlowId">The orchestrated flow ID</param>
+    /// <param name="orchestratedFlow">The orchestrated flow entity</param>
+    private async Task StartSchedulerIfConfiguredAsync(Guid orchestratedFlowId, Shared.Entities.OrchestratedFlowEntity orchestratedFlow)
+    {
+        try
+        {
+            // Check if scheduling is configured and enabled
+            if (string.IsNullOrWhiteSpace(orchestratedFlow.CronExpression) || !orchestratedFlow.IsScheduleEnabled)
+            {
+                _logger.LogDebugWithCorrelation("Scheduler not configured or disabled for orchestrated flow {OrchestratedFlowId}. CronExpression: {CronExpression}, IsScheduleEnabled: {IsScheduleEnabled}",
+                    orchestratedFlowId, orchestratedFlow.CronExpression ?? "null", orchestratedFlow.IsScheduleEnabled);
+                return;
+            }
+
+            // Validate cron expression
+            if (!_schedulerService.ValidateCronExpression(orchestratedFlow.CronExpression))
+            {
+                _logger.LogWarningWithCorrelation("Invalid cron expression for orchestrated flow {OrchestratedFlowId}: {CronExpression}. Skipping scheduler start.",
+                    orchestratedFlowId, orchestratedFlow.CronExpression);
+                return;
+            }
+
+            // Check if scheduler is already running
+            var isRunning = await _schedulerService.IsSchedulerRunningAsync(orchestratedFlowId);
+            if (isRunning)
+            {
+                _logger.LogInformationWithCorrelation("Scheduler already running for orchestrated flow {OrchestratedFlowId}. Updating with new cron expression: {CronExpression}",
+                    orchestratedFlowId, orchestratedFlow.CronExpression);
+
+                // Update existing scheduler with new cron expression
+                await _schedulerService.UpdateSchedulerAsync(orchestratedFlowId, orchestratedFlow.CronExpression);
+            }
+            else
+            {
+                _logger.LogInformationWithCorrelation("Starting scheduler for orchestrated flow {OrchestratedFlowId} with cron expression: {CronExpression}",
+                    orchestratedFlowId, orchestratedFlow.CronExpression);
+
+                // Start new scheduler
+                await _schedulerService.StartSchedulerAsync(orchestratedFlowId, orchestratedFlow.CronExpression);
+            }
+
+            // Get next execution time for logging
+            var nextExecution = await _schedulerService.GetNextExecutionTimeAsync(orchestratedFlowId);
+            _logger.LogInformationWithCorrelation("Scheduler configured for orchestrated flow {OrchestratedFlowId}. Next execution: {NextExecution}",
+                orchestratedFlowId, nextExecution?.ToString("yyyy-MM-dd HH:mm:ss UTC") ?? "Unknown");
+        }
+        catch (Exception ex)
+        {
+            _logger.LogErrorWithCorrelation(ex, "Failed to start scheduler for orchestrated flow {OrchestratedFlowId}. CronExpression: {CronExpression}",
+                orchestratedFlowId, orchestratedFlow.CronExpression);
+
+            // Don't throw - scheduler failure shouldn't prevent orchestration start
+            // The orchestration can still be executed manually
+        }
+    }
+
+    /// <summary>
+    /// Stops the scheduler for the orchestrated flow if it's running
+    /// </summary>
+    /// <param name="orchestratedFlowId">The orchestrated flow ID</param>
+    private async Task StopSchedulerIfRunningAsync(Guid orchestratedFlowId)
+    {
+        try
+        {
+            // Check if scheduler is running
+            var isRunning = await _schedulerService.IsSchedulerRunningAsync(orchestratedFlowId);
+            if (!isRunning)
+            {
+                _logger.LogDebugWithCorrelation("No scheduler running for orchestrated flow {OrchestratedFlowId}",
+                    orchestratedFlowId);
+                return;
+            }
+
+            _logger.LogInformationWithCorrelation("Stopping scheduler for orchestrated flow {OrchestratedFlowId}",
+                orchestratedFlowId);
+
+            // Stop the scheduler
+            await _schedulerService.StopSchedulerAsync(orchestratedFlowId);
+
+            _logger.LogInformationWithCorrelation("Successfully stopped scheduler for orchestrated flow {OrchestratedFlowId}",
+                orchestratedFlowId);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogErrorWithCorrelation(ex, "Failed to stop scheduler for orchestrated flow {OrchestratedFlowId}",
+                orchestratedFlowId);
+
+            // Don't throw - scheduler failure shouldn't prevent orchestration stop
+            // The cache cleanup is more important
+        }
     }
 }

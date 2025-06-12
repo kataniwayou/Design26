@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Quartz;
 using Shared.Extensions;
 using Shared.Configuration;
 using Shared.HealthChecks;
@@ -52,9 +53,22 @@ builder.Services.AddHttpClient<IManagerHttpClient, ManagerHttpClient>(client =>
     client.Timeout = TimeSpan.FromSeconds(builder.Configuration.GetValue<int>("HttpClient:TimeoutSeconds", 30));
 });
 
+// Add Quartz.NET services
+builder.Services.AddQuartz(q =>
+{
+    q.UseSimpleTypeLoader();
+    q.UseInMemoryStore();
+    q.UseDefaultThreadPool(tp =>
+    {
+        tp.MaxConcurrency = 10;
+    });
+});
+builder.Services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);
+
 // Add orchestration services
 builder.Services.AddScoped<IOrchestrationCacheService, OrchestrationCacheService>();
 builder.Services.AddScoped<IOrchestrationService, OrchestrationService>();
+builder.Services.AddScoped<IOrchestrationSchedulerService, OrchestrationSchedulerService>();
 
 // Add Health Checks
 builder.Services.AddHttpClient<OpenTelemetryHealthCheck>();

@@ -22,6 +22,13 @@ public class OrchestrationCacheModel
     public AssignmentManagerModel AssignmentManager { get; set; } = new();
 
     /// <summary>
+    /// List of entry point step IDs for this orchestrated flow.
+    /// These are the steps that should be executed when starting the workflow.
+    /// Calculated once during orchestration setup and cached for reuse.
+    /// </summary>
+    public List<Guid> EntryPoints { get; set; } = new();
+
+    /// <summary>
     /// Timestamp when this cache entry was created
     /// </summary>
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;

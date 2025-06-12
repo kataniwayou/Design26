@@ -12,13 +12,16 @@ namespace Manager.Orchestrator.Controllers;
 public class OrchestrationController : ControllerBase
 {
     private readonly IOrchestrationService _orchestrationService;
+    private readonly IOrchestrationSchedulerService _schedulerService;
     private readonly ILogger<OrchestrationController> _logger;
 
     public OrchestrationController(
         IOrchestrationService orchestrationService,
+        IOrchestrationSchedulerService schedulerService,
         ILogger<OrchestrationController> logger)
     {
         _orchestrationService = orchestrationService;
+        _schedulerService = schedulerService;
         _logger = logger;
     }
 
@@ -262,6 +265,128 @@ public class OrchestrationController : ControllerBase
             _logger.LogErrorWithCorrelation(ex, "Error during Get processors health by orchestrated flow. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
                 guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
             return StatusCode(500, "An error occurred while retrieving processors health");
+        }
+    }
+
+    /// <summary>
+    /// Starts the scheduler for the specified orchestrated flow
+    /// </summary>
+    /// <param name="orchestratedFlowId">The orchestrated flow ID to schedule</param>
+    /// <param name="request">Request containing cron expression</param>
+    /// <returns>Success response</returns>
+    [HttpPost("scheduler/start/{orchestratedFlowId}")]
+    [SwaggerOperation(Summary = "Start scheduler", Description = "Starts scheduled execution for an orchestrated flow using a cron expression")]
+    [SwaggerResponse(200, "Scheduler started successfully")]
+    [SwaggerResponse(400, "Invalid orchestrated flow ID or cron expression")]
+    [SwaggerResponse(409, "Scheduler already running for this flow")]
+    [SwaggerResponse(500, "Internal server error")]
+    public async Task<ActionResult> StartScheduler(string orchestratedFlowId, [FromBody] StartSchedulerRequest request)
+    {
+        var userContext = User.Identity?.Name ?? "Anonymous";
+
+        // Validate GUID format
+        if (!Guid.TryParse(orchestratedFlowId, out Guid guidOrchestratedFlowId))
+        {
+            _logger.LogWarningWithCorrelation("Invalid GUID format provided for Start scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                orchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return BadRequest($"Invalid GUID format: {orchestratedFlowId}");
+        }
+
+        if (string.IsNullOrWhiteSpace(request.CronExpression))
+        {
+            return BadRequest("Cron expression is required");
+        }
+
+        _logger.LogInformationWithCorrelation("Starting scheduler for orchestrated flow. OrchestratedFlowId: {OrchestratedFlowId}, CronExpression: {CronExpression}, User: {User}, RequestId: {RequestId}",
+            guidOrchestratedFlowId, request.CronExpression, userContext, HttpContext.TraceIdentifier);
+
+        try
+        {
+            await _schedulerService.StartSchedulerAsync(guidOrchestratedFlowId, request.CronExpression);
+
+            var nextExecution = await _schedulerService.GetNextExecutionTimeAsync(guidOrchestratedFlowId);
+
+            _logger.LogInformationWithCorrelation("Successfully started scheduler for orchestrated flow. OrchestratedFlowId: {OrchestratedFlowId}, NextExecution: {NextExecution}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, nextExecution, userContext, HttpContext.TraceIdentifier);
+
+            return Ok(new {
+                message = "Scheduler started successfully",
+                orchestratedFlowId = guidOrchestratedFlowId,
+                cronExpression = request.CronExpression,
+                nextExecution = nextExecution,
+                startedAt = DateTime.UtcNow
+            });
+        }
+        catch (ArgumentException ex)
+        {
+            _logger.LogWarningWithCorrelation(ex, "Invalid cron expression for Start scheduler. OrchestratedFlowId: {OrchestratedFlowId}, CronExpression: {CronExpression}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, request.CronExpression, userContext, HttpContext.TraceIdentifier);
+            return BadRequest(ex.Message);
+        }
+        catch (InvalidOperationException ex)
+        {
+            _logger.LogWarningWithCorrelation(ex, "Scheduler already running for Start scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return Conflict(ex.Message);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogErrorWithCorrelation(ex, "Error during Start scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return StatusCode(500, "An error occurred while starting scheduler");
+        }
+    }
+
+    /// <summary>
+    /// Stops the scheduler for the specified orchestrated flow
+    /// </summary>
+    /// <param name="orchestratedFlowId">The orchestrated flow ID to stop scheduling</param>
+    /// <returns>Success response</returns>
+    [HttpPost("scheduler/stop/{orchestratedFlowId}")]
+    [SwaggerOperation(Summary = "Stop scheduler", Description = "Stops scheduled execution for an orchestrated flow")]
+    [SwaggerResponse(200, "Scheduler stopped successfully")]
+    [SwaggerResponse(400, "Invalid orchestrated flow ID")]
+    [SwaggerResponse(404, "No scheduler running for this flow")]
+    [SwaggerResponse(500, "Internal server error")]
+    public async Task<ActionResult> StopScheduler(string orchestratedFlowId)
+    {
+        var userContext = User.Identity?.Name ?? "Anonymous";
+
+        // Validate GUID format
+        if (!Guid.TryParse(orchestratedFlowId, out Guid guidOrchestratedFlowId))
+        {
+            _logger.LogWarningWithCorrelation("Invalid GUID format provided for Stop scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                orchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return BadRequest($"Invalid GUID format: {orchestratedFlowId}");
+        }
+
+        _logger.LogInformationWithCorrelation("Stopping scheduler for orchestrated flow. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+            guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+
+        try
+        {
+            await _schedulerService.StopSchedulerAsync(guidOrchestratedFlowId);
+
+            _logger.LogInformationWithCorrelation("Successfully stopped scheduler for orchestrated flow. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+
+            return Ok(new {
+                message = "Scheduler stopped successfully",
+                orchestratedFlowId = guidOrchestratedFlowId,
+                stoppedAt = DateTime.UtcNow
+            });
+        }
+        catch (InvalidOperationException ex)
+        {
+            _logger.LogWarningWithCorrelation(ex, "No scheduler running for Stop scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return NotFound(ex.Message);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogErrorWithCorrelation(ex, "Error during Stop scheduler. OrchestratedFlowId: {OrchestratedFlowId}, User: {User}, RequestId: {RequestId}",
+                guidOrchestratedFlowId, userContext, HttpContext.TraceIdentifier);
+            return StatusCode(500, "An error occurred while stopping scheduler");
         }
     }
 }
